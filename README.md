@@ -86,38 +86,6 @@ I enjoy exploring data, discovering meaningful patterns, developing predictive m
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### ❤️ Heart Disease Prediction Using Machine Learning
-
-An intelligent predictive application designed to estimate the likelihood of heart disease using patient health parameters.
-
-**Key Features:**
-- Data preprocessing and feature engineering
-- Predictive modelling using XGBoost
-- Machine learning model evaluation
-- Interactive application development
-- Healthcare-oriented prediction support
-
-**Technologies:** Python | Pandas | Scikit-learn | XGBoost
-
-### 🌊 Intelligent Flood Prediction &amp; Early Warning System
-
-An AI-powered flood prediction project focused on identifying regional and hyperlocal flood risks using environmental and geographical data.
-
-**Key Features:**
-- Rainfall and river-level data analysis
-- Flood risk prediction
-- Flood severity assessment
-- Hybrid AI model exploration
-- Explainable AI and early warning mechanisms
-
-**Technologies:** Python | Machine Learning | Deep Learning | Data Analytics
-
----
-
 ## 📚 Currently Learning &amp; Exploring
 
 <p>
