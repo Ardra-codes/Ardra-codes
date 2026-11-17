@@ -100,7 +100,8 @@ Developed a deep learning model using Artificial Neural Networks (ANN) to predic
 - Healthcare-oriented prediction support
 
 **Technologies:** Python | Numpy | Pandas | Scikit-learn | Tensorlow & Keras 
-Repository:https://github.com/aamyardra-rgb/Heart_Disease_Prediction_Using_ANN
+
+Repository: https://github.com/aamyardra-rgb/Heart_Disease_Prediction_Using_ANN
 ---
 
 ## 📚 Currently Learning &amp; Exploring
