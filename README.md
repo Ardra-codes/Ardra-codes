@@ -86,6 +86,23 @@ I enjoy exploring data, discovering meaningful patterns, developing predictive m
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction Using Artificial Neural Networks (ANN)
+
+Developed a deep learning model using Artificial Neural Networks (ANN) to predict the likelihood of heart disease based on patient medical attributes.
+
+**Key Features:**
+- Data preprocessing and feature engineering
+- Model training & model evaluation to improve accuracy
+- Healthcare-oriented prediction support
+
+**Technologies:** Python | Numpy | Pandas | Scikit-learn | Tensorlow & Keras 
+
+---
+
 ## 📚 Currently Learning &amp; Exploring
 
 <p>
