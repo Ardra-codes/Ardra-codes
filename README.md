@@ -14,7 +14,7 @@ Turning data into insights and building intelligent solutions through technology
 
 <img src="https://komarev.com/ghpvc/?username=aamyardra-rgb&amp;label=PROFILE+VIEWS&amp;color=6C63FF&amp;style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/aamyardra-rgb?style=for-the-badge&amp;logo=github&amp;color=00D4FF&amp;label=Followers" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Ardra-codes?style=for-the-badge&amp;logo=github&amp;color=00D4FF&amp;label=Followers" alt="GitHub Followers"/>
 
 <br/>
 
@@ -190,7 +190,7 @@ Python | NumPy | Pandas | Scikit-learn | Matplotlib | Seaborn | Streamlit | Pick
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/aamyardra-rgb">
+<a href="https://github.com/Ardra-codes">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
