@@ -102,6 +102,36 @@ Developed a deep learning model using Artificial Neural Networks (ANN) to predic
 **Technologies:** Python | Numpy | Pandas | Scikit-learn | Tensorlow & Keras 
 
 <h6>Repository: https://github.com/aamyardra-rgb/Heart_Disease_Prediction_Using_ANN</h6>
+
+<br>
+
+### ⚡Appliance Energy Consumption Prediction Using Machine Learning
+
+Developed a machine learning-based predictive system to estimate household appliance energy consumption using environmental and indoor sensor data. The project analyzes temperature, humidity, weather conditions, and room-specific parameters to provide accurate energy usage predictions and support energy-efficient decision-making.
+
+<strong>Key Features:</strong>
+<ul>
+    <li>Comprehensive data preprocessing, feature selection, and handling of missing values</li>
+    <li>Implemented and compared multiple regression models including Linear Regression, Decision Tree, Random Forest, and K-Nearest Neighbors (KNN)</li>
+    <li>Model evaluation using MAE, RMSE, MAPE, and R² Score for performance optimization</li>
+    <li>Real-time energy consumption prediction through an interactive Streamlit application</li>
+    <li>Automatic energy unit conversion from Wh to kWh for better user understanding</li>
+    <li>Visualization of model performance and energy consumption trends</li>
+</ul>
+
+<strong>Technologies:</strong>
+Python | NumPy | Pandas | Scikit-learn | Matplotlib | Seaborn | Streamlit | Pickle
+
+<h6>Repository:https://github.com/aamyardra-rgb/ENERGIQ---Appliance_Energy_Consumption_Prediction_Application.git</h6>
+
+<img width="1920" height="913" alt="Main Dashboard seg1" src="https://github.com/user-attachments/assets/241c675d-840e-4a9c-bb3d-753f4090d91c" />
+<img width="1920" height="936" alt="different inputs seg2" src="https://github.com/user-attachments/assets/0cdbe6a9-9ab5-4543-8e5f-29e2f64e17d7" />
+<img width="1920" height="1020" alt="outdoor atmosphere seg2" src="https://github.com/user-attachments/assets/79383822-f431-43b8-8e11-5b17a974035f" />
+<img width="1920" height="947" alt="prediction seg3" src="https://github.com/user-attachments/assets/82c4e770-9316-4413-b238-0444335969a1" />
+<img width="1920" height="928" alt="Date   Time seg2" src="https://github.com/user-attachments/assets/904b5ebd-c5b5-4f2a-8a7d-d2bfc2e14c9d" />
+<img width="1920" height="1020" alt="seg4(2)" src="https://github.com/user-attachments/assets/af036c56-fad2-408b-9ef8-0d533bdfe1db" />
+
+<br>
 ---
 
 ## 📚 Currently Learning &amp; Exploring
