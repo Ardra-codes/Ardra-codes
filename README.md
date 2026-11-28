@@ -152,7 +152,7 @@ Python | NumPy | Pandas | Scikit-learn | Matplotlib | Seaborn | Streamlit | Pick
 
 🔥 My Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=aamyardra-rgb&amp;theme=tokyonight&amp;hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Ardra-codes&amp;theme=tokyonight&amp;hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
 
